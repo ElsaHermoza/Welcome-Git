@@ -1,1 +1,2 @@
-# Welcome-Git hola mundo hola mundo
+# Welcome-Git hola mundo
+aqui pongo inform sobre welcome git
